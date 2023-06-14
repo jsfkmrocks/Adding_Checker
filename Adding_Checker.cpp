@@ -1,5 +1,3 @@
-// Jordan Brown - Adding Checker - 9/10/19
-
 //Setup
 #include <iostream>
 #include <cstdlib>
